@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year Ph.D. student in Information Systems at the [Jindal School of Management](https://jindal.utdallas.edu/), <br> [University of Texas at Dallas](https://www.utdallas.edu/). My advisor is [Sumit Sarkar](https://chairs.utdallas.edu/profiles/dr-sumit-sarkar/).
+I am a fifth year Ph.D. student in Information Systems at the [Jindal School of Management](https://jindal.utdallas.edu/), [University of Texas at Dallas](https://www.utdallas.edu/). My advisor is [Sumit Sarkar](https://chairs.utdallas.edu/profiles/dr-sumit-sarkar/).
 
 Research Interests
 ======
-Topics: User-Generated Content, Social Media, E-Commerce, Recommender Systems <br> Methodologies: Econometrics, Machine Learning, Text-Mining, Optimization
+Topics: User-Generated Content, Social Media, E-Commerce, Recommender Systems
+Methodologies: Econometrics, Machine Learning, Text-Mining, Optimization
 
 
