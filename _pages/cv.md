@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Texas at Dallas, Richardson, Texas <br> Ph.D. in Information Systems 2017 - Present
+* Sabanci University, Istanbul, Turkey <br> M.Sc. in Industrial Engineering 2015 - 2017
+* Istanbul Technical University, Istanbul, Turkey <br> B.S. in Industrial Engineering 2010 – 2014
 
 Research
 ======
