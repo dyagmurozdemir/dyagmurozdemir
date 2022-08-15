@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Information Systems at the [Jindal School of Management](https://jindal.utdallas.edu/), [University of Texas at Dallas](https://www.utdallas.edu/). <br> My advisor is [Sumit Sarkar](https://chairs.utdallas.edu/profiles/dr-sumit-sarkar/).
+I am a Ph.D. candidate in Information Systems at the [Jindal School of Management](https://jindal.utdallas.edu/), [University of Texas at Dallas](https://www.utdallas.edu/). I hold a Master of Science in Industrial Engineering from [Sabanci University](https://ie.sabanciuniv.edu/) and a Bachelor of Science in Industrial Engineering from [Istanbul Technical University](https://end.itu.edu.tr/en).
+
+My current research interest is on issues related to user-generated content on online platforms. I am interested in understanding how novel information in user-generated content can be incorporated by content creators, businesses, and platforms into their decisions/actions by examining and designing the information flow in online settings. My work employs econometric modeling and natural language processing to examine and quantify how user-generated content influences platforms, businesses, and consumers. In another line of work, I focus on designing algorithms for online content selection to overcome consumers’ information overload. 
+
+I have presented my work at prestigious conferences such as CIST, WITS, ICIS, WCBA, and INFORMS.
 
 Research Interests
 ======
