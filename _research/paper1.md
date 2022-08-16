@@ -1,10 +1,11 @@
 ---
 title: "Paper 1"
-collection: s
-permalink: /research/paper1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-# paperurl: 'http://dyagmurozdemir.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+collection: research
+type: "Research"
+permalink: /research/2012-03-01-paper-1
+venue: "UC San Francisco, Department of Testing"
+date: 2012-03-01
+location: "San Francisco, California"
 ---
+
+This is a description of your paper, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
