@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Novelty in Restaurant Reviews: The Impact on Businesses and Consumers
+<font size="5"> Novelty in Restaurant Reviews: The Impact on Businesses and Consumers</font>
 ======
 Dicle Yagmur Ozdemir, Harpreet Singh, Sumit Sarkar
 
 Abstract: 
 
-Credibility, Novelty, and Helpfulness in Online Reviews
+<font size="5"> Credibility, Novelty, and Helpfulness in Online Reviews</font>
 ======
 Dicle Yagmur Ozdemir, Harpreet Singh, Sumit Sarkar
 
