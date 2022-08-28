@@ -9,17 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * University of Texas at Dallas, Richardson, Texas <br> Ph.D. in Information Systems 2017 - Present
 * Sabanci University, Istanbul, Turkey <br> M.Sc. in Industrial Engineering 2015 - 2017
 * Istanbul Technical University, Istanbul, Turkey <br> B.S. in Industrial Engineering 2010 – 2014
- 
-Skills
+## Skills
 ======
 * Python, Stata, R, MATLAB, Java, MySQL, Ample, GAMS, Arena, Minitab, LATEX
-  
-Awards and Grants
+## Awards and Grants
 ======
 * The University of Texas at Dallas, JSOM Three Minute Dissertation Competition, 2021, Second Place
 * The University of Texas at Dallas, President’s Teaching Excellence Award Nomination, 2021
