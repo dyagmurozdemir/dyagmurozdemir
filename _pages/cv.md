@@ -10,13 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* University of Texas at Dallas, Richardson, Texas <br> Ph.D. in Information Systems 2017 - Present
+* University of Texas at Dallas, Richardson, Texas <br> Ph.D. in Information Systems 2017 - 2023 (Expected)
 * Sabanci University, Istanbul, Turkey <br> M.Sc. in Industrial Engineering 2015 - 2017
 * Istanbul Technical University, Istanbul, Turkey <br> B.S. in Industrial Engineering 2010 – 2014
+
 ## Skills
 * Python, Stata, R, MATLAB, Java, MySQL, Ample, GAMS, Arena, Minitab, LATEX
+
 ## Awards and Grants
-* The University of Texas at Dallas, JSOM Three Minute Dissertation Competition, 2021, Second Place
+* The University of Texas at Dallas, Best Student Teacher Award Nomination, 2022
+* * The University of Texas at Dallas, JSOM Three Minute Dissertation Competition, 2021, Second Place
 * The University of Texas at Dallas, President’s Teaching Excellence Award Nomination, 2021
 * The University of Texas at Dallas, JSOM PhD Scholarship, (Full tuition waiver + Stipend for 5 years), 2017 
 * Sabanci University Faculty of Engineering and Natural Sciences Best Teaching Assistant Award, 2016
