@@ -74,7 +74,7 @@ help them craft reviews that are more likely to receive helpful votes.
 
 ## 4. Axiomatic Characterization of Novelty for Textual Content
 
-Dicle Yagmur Ozdemir, Harpreet Singh, Sumit Sarkar
+Dicle Yagmur Ozdemir, Sumit Sarkar
 
 Abstract: With the rapid increase in digitization, detecting novelty in textual content has
 become important in many applications. A variety of computational techniques have been
