@@ -14,5 +14,8 @@ Fall 2021, Traditional Classroom Mode. Enrollment: 60. Instructor Evaluation: 4.
 
 Fall 2020, Flexible Mode. Enrollment: 59. Instructor Evaluation: 4.54/5.00. 
 
+## Teaching Interests
+
+Topics: Data Analytics, Machine Learning, Natural Language Processing
 
 
