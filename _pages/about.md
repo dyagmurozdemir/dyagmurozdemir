@@ -15,6 +15,7 @@ My current research examines issues related to user-generated content on online 
 Research Interests
 ======
 Topics: User-Generated Content, Social Media, E-Commerce, Recommender Systems <br> Methodologies: Econometrics, Machine Learning, Text-Mining, Optimization
+
 Teaching Interests
 ======
 Topics: Data Analytics, Machine Learning, Natural Language Processing
