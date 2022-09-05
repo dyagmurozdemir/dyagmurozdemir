@@ -11,7 +11,7 @@ redirect_from:
 
 I have presented my work at prestigious conferences such as CIST, WITS, ICIS, WCBA, and INFORMS.
 
-(Upcoming) Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, INFORMS Annual Meeting, October, 2022, Indianapolis, IN.
+(<i>Upcoming<i>) Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, INFORMS Annual Meeting, October, 2022, Indianapolis, IN.
 
 ## Refereed Conference Presentations
 * Credibility, Novelty, and Helpfulness in Online Reviews, International Conference on Information Systems (ICIS), December, 2021, Austin, TX.
