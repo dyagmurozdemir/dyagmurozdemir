@@ -18,6 +18,6 @@ Topics: User-Generated Content, Social Media, E-Commerce, Recommender Systems <b
 
 ## Teaching Interests
 
-Topics: Data Analytics, Machine Learning, Natural Language Processing
+Topics: Data Analytics, Machine Learning, Natural Language Processing, Database Foundations
 
 
