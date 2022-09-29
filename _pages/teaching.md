@@ -16,6 +16,6 @@ Introduction to Programming. Fall 2020, Flexible Mode. Enrollment: 59. Instructo
 
 ## Teaching Interests
 
-Topics: Data Analytics, Machine Learning, Natural Language Processing
+Topics: Data Analytics, Machine Learning, Natural Language Processing, Database Foundations
 
 
