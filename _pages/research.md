@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[CV](http://dyagmurozdemir.github.io/files/CV_DYO.pdf)
 {% include base_path %}
 
 ## 1. Novelty in Restaurant Reviews: The Impact on Businesses and Consumers
