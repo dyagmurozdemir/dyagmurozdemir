@@ -9,28 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-## 1. Novelty in Restaurant Reviews: The Impact on Businesses and Consumers
+## 1. Novel Information in Restaurant Reviews: The Impact on Helpfulness and Restaurant Check-Ins
 
 Dicle Yagmur Ozdemir, Harpreet Singh, Sumit Sarkar
 
-Abstract: The popularity of electronic word-of-mouth has increased dramatically over the
-years, and platforms are attracting more and more consumers to read online reviews. Consequently,
-it has become important to understand the various ways in which online reviews
-impact relevant stakeholders such as platforms, businesses, and consumers. While prior works
-have examined the impact of different review characteristics, the impact of new information
-provided in reviews (review novelty) has not received attention. We study how review novelty
-impacts different stakeholders. To do this, we use a dataset from Yelp that provides reviews and
-other related information for restaurants. We examine how novel content in reviews influences
-consumers’ restaurant check-ins and their perceptions of review helpfulness. We show that
-restaurants with more novel reviews have more consumer check-ins. Interestingly, the impact
-of review novelty on check-ins decreases if the novelty becomes too high. We also show that
-consumers find novel information in online reviews helpful, as demonstrated by the number of
-useful votes received by such reviews. This helps to explain the mechanism behind our findings
-by providing evidence for both the direct and indirect effects of review novelty on the number
-of check-ins. We also find that the impact of novel reviews on restaurant check-ins is higher for
-high-priced restaurants. A fine-grained analysis examining novelty in the three aspects food,
-service, and ambiance, shows that novelty in each aspect increases check-ins, with the impact
-even higher for high-priced restaurants for the food and service aspects.
+Abstract: The popularity of electronic word-of-mouth has increased dramatically over the years, and it has become important to understand how online reviews impact relevant stakeholders such as platforms, businesses, and consumers. While prior works have examined the impact of different review characteristics, the impact of novel information in reviews has not received attention. To study how novel information in reviews impacts different stakeholders, we use a dataset from Yelp that provides reviews and other related information for restaurants. We examine how novel information in reviews influences restaurant check-ins and review helpfulness, and how this relationship changes as review volume changes. We show that novel information positively impacts helpfulness of reviews and restaurant check-ins – however, the impact becomes negative when the review volume becomes high. We examine the mechanism behind our findings and show that review helpfulness partially mediates the effect of novel information on restaurant check-ins. The indirect effect (through helpfulness) is moderated by review volume. We also show that the impact of novel information on check-ins changes with restaurant type, with the impact higher for high-priced restaurants. 
 
 
 ## 2. Tell Me Something New: Selecting Novel Online Reviews
