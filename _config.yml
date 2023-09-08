@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dicle Yagmur Ozdemir"
 title_separator          : "-"
 name                     : &name "Dicle Yagmur Ozdemir"
-description              : &description "Dicle Yagmur Ozdemir, Ph.D. Candidate in Information Systems at Jindal School of Management, University of Texas at Dallas"
+description              : &description "Dicle Yagmur Ozdemir, Assistant Professor at Rotterdam School of Management, Erasmus University"
 url                      : https://dyagmurozdemir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dyagmurozdemir.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dicle Yagmur Ozdemir"
   avatar           : "profile1.png"
-  bio              : "Ph.D. Candidate in Information Systems at Jindal School of Management, University of Texas at Dallas"
+  bio              : "Assistant Professor at Rotterdam School of Management, Erasmus University"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :  "yagmur@utdallas.edu"
+  email            :  ozdemir@rsm.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
