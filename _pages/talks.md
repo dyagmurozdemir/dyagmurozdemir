@@ -17,7 +17,13 @@ I have presented my work at prestigious conferences such as CIST, WITS, ICIS, WC
 * Tell Me Something New: Online Review Selection and Review Novelty, Workshop on Information Technologies and Systems (WITS), December, 2020.
 * Novelty Detection in Online Reviews and Review Helpfulness, Winter Conference on Business Analytics (WCBA), March, 2019, Snowbird, UT.
 
-## Other Presentations 
+## Invited Talks 
+* Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Tilburg Universtiy, December, 2022.
+* Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Nova School of Business and Economics, December, 2022.
+* Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Catolica Lisbon School of Business and Economics, December, 2022.
+* Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, University of Illinois Urbana-Champaign, December, 2022.
+* Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Erasmus University Rotterdam, December, 2022.
+* Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Oklahoma State University, December, 2022.
 * Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, INFORMS Annual Meeting, October, 2022, Indianapolis, IN.
 * The New and the Reliable: Novelty, Credibility, and Helpfulness in Online Reviews, INFORMS Annual Meeting, October, 2021, Anaheim, CA.
 * Tell Me Something New: Online Review Selection and Review Novelty. INFORMS Annual Meeting, October, 2020.
