@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* University of Texas at Dallas, Richardson, Texas <br> Ph.D. in Information Systems 2017 - 2023 (Expected)
+* University of Texas at Dallas, Richardson, Texas <br> Ph.D. in Information Systems 2017 - 2023
 * Sabanci University, Istanbul, Turkey <br> M.Sc. in Industrial Engineering 2015 - 2017
 * Istanbul Technical University, Istanbul, Turkey <br> B.S. in Industrial Engineering 2010 – 2014
 
