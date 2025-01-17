@@ -9,15 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-I have presented my work at prestigious conferences such as CIST, WITS, ICIS, WCBA, and INFORMS.
+I have presented my work at prestigious conferences such as CIST, WITS, WISE, SCECR, ICIS, WCBA, and INFORMS.
 
 ## Refereed Conference Presentations
+* The Axiomatic Characterization of Novelty, Workshop on Information Technologies and Systems (WITS), December, 2024, Bangkok, Thailand
+*	What People Think of Machines as Doctors: Unveiling the Value of Gen-AI for e-Health, Workshop on Information Systems and Economics (WISE), December, 2024, Bangkok, Thailand
+* What People Think of Machines as Doctors: Unveiling the Value of Gen-AI for e-Health, Statistical Challenges in Electronic Commerce Research (SCECR), June, 2024, Lisbon, Portugal
+* What People Think of Machines as Doctors: Unveiling the Value of Gen-AI for e-Health, Conference on Health IT and Analytics (CHITA), May, 2024, Washington, D.C.
 * Credibility, Novelty, and Helpfulness in Online Reviews, International Conference on Information Systems (ICIS), December, 2021, Austin, TX.
 * Online Review Selection with Maximized Novel Information, Conference on Information Systems and Technology (CIST), October, 2021, Newport Beach, CA.
 * Tell Me Something New: Online Review Selection and Review Novelty, Workshop on Information Technologies and Systems (WITS), December, 2020.
 * Novelty Detection in Online Reviews and Review Helpfulness, Winter Conference on Business Analytics (WCBA), March, 2019, Snowbird, UT.
 
 ## Invited Talks 
+*  What People Think of Machines as Doctors: Unveiling the Value of Gen-AI for e-Health, INFORMS Annual Meeting, October, 2024, Seattle, WA.
+*  What People Think of Machines as Doctors: Unveiling the Value of Gen-AI for e-Health, ZEW – Leibniz-Zentrum für Europäische Wirtschaftsforschung, September, 2024, Mannheim.
 * Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Tilburg Universtiy, December, 2022.
 * Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Nova School of Business and Economics, December, 2022.
 * Novelty in Restaurant Reviews: The Impact on Businesses and Consumers, Catolica Lisbon School of Business and Economics, December, 2022.
